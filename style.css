@@ -159,4 +159,6 @@ footer{
     background: #F63232;
     padding: 30px 0px;
     color: white;
+    cursor: text;
+    margin-top: 15px;
 }
